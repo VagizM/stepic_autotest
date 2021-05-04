@@ -1,2 +1,2 @@
 # stepic_autotest
-Проба git
+Проба git2
