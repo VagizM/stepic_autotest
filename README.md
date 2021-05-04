@@ -1,2 +1,2 @@
 # stepic_autotest
-Проба git2
+12
